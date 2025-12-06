@@ -17,9 +17,7 @@ A tool designed to help you break down complex tasks and manage overwhelming wor
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/overwhelm-breaker.git
-cd overwhelm-breaker
-npm install
+clone set env run
 ```
 
 ### Usage
